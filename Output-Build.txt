@@ -1,0 +1,17 @@
+﻿1>------ Build started: Project: ConsoleApp1, Configuration: Debug ------
+1>C:\Users\89222\Source\Repos\Smargen2305\TMS_Calculator\Program.cs(24,14,24,14): error CS1513: } expected
+1>C:\Users\89222\Source\Repos\Smargen2305\TMS_Calculator\Program.cs(25,21,25,23): error CS1002: ; expected
+1>C:\Users\89222\Source\Repos\Smargen2305\TMS_Calculator\Program.cs(25,21,25,23): error CS1513: } expected
+1>C:\Users\89222\Source\Repos\Smargen2305\TMS_Calculator\Program.cs(25,56,25,56): error CS1002: ; expected
+1>C:\Users\89222\Source\Repos\Smargen2305\TMS_Calculator\Program.cs(26,21,26,23): error CS1002: ; expected
+1>C:\Users\89222\Source\Repos\Smargen2305\TMS_Calculator\Program.cs(26,21,26,23): error CS1513: } expected
+1>C:\Users\89222\Source\Repos\Smargen2305\TMS_Calculator\Program.cs(26,56,26,56): error CS1002: ; expected
+1>C:\Users\89222\Source\Repos\Smargen2305\TMS_Calculator\Program.cs(27,21,27,23): error CS1002: ; expected
+1>C:\Users\89222\Source\Repos\Smargen2305\TMS_Calculator\Program.cs(27,21,27,23): error CS1513: } expected
+1>C:\Users\89222\Source\Repos\Smargen2305\TMS_Calculator\Program.cs(27,56,27,56): error CS1002: ; expected
+1>C:\Users\89222\Source\Repos\Smargen2305\TMS_Calculator\Program.cs(28,21,28,23): error CS1002: ; expected
+1>C:\Users\89222\Source\Repos\Smargen2305\TMS_Calculator\Program.cs(28,21,28,23): error CS1513: } expected
+1>C:\Users\89222\Source\Repos\Smargen2305\TMS_Calculator\Program.cs(28,56,28,56): error CS1002: ; expected
+1>C:\Users\89222\Source\Repos\Smargen2305\TMS_Calculator\Program.cs(29,24,29,24): error CS1002: ; expected
+1>C:\Users\89222\Source\Repos\Smargen2305\TMS_Calculator\Program.cs(36,1,36,2): error CS1022: Type or namespace definition, or end-of-file expected
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
